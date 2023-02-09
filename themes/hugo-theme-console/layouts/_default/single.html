@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ .PublishDate.Format "Jan. 2, 2006" }}
 <h1>{{ .Title }}</h1>
+<h2>{{ .PublishDate.Format "Jan. 2, 2006" }}</h2>
 {{ .Content }}
 {{ end }}
