@@ -1,4 +1,4 @@
-baseURL = 'https://bluebindu.github.io'
+baseURL = 'https://bluebindu.org'
 languageCode = 'en-us'
 title = 'Timo Brady'
 theme = 'hugo-theme-console'
