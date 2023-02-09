@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+<p>बिंदु / bindu - a singularity in the non-dual yogic tradition </p>
+
+<h2>postgraduate student<br/>
+    artificial intelligence & machine learning<br/>
+    faculty of engineering, computer, and mathematical sciences<br/>
+    the university of adelaide
+</h2>
+<!-- <p>
+    ]ανάγα̣[<br/>
+] . [   ]εμνάσεσθ᾿ ἀ[<br/>
+κ]αὶ γὰρ ἄμμες ἐν νεό[τατι<br/>
+. ταῦ̣τ̣᾿ [ἐ]πόημμεν·<br/>
+πό̣λ̣λ̣α̣ [μ]ὲν γὰρ καὶ κά[λα<br/>
+. . . η̣ . [  ]μεν, πολι[<br/>
+ἂμμε̣[  .  ]ὀ[ξ]είαις δ̣[<br/>
+.. ] . . [ . ] . . [<br/>
+</p>
+<p>
+you will remember<br/>
+for we in our youth<br/>
+did these things<br/>
+yes, many and beautiful things<br/>
+- <b>Sappho, <a href="https://digitalsappho.org/fragments/fr24/">Fragment 24A</a></b>
+</p>
+<br/> -->
+
+<!-- <h1>Latest posts</h1> -->
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+<!-- <h1>Latest photos</h1> -->
+
+<div class="image-grid">
+{{ with .Site.GetPage "/photos" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}
