@@ -27,10 +27,10 @@ yes, many and beautiful things<br/>
 </p>
 <br/> -->
 
-<!-- <h1>Latest posts</h1> -->
+<h1>latest entries</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/posts" }}
+{{ with .Site.GetPage "/logbook" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
