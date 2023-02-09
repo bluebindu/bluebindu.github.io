@@ -6,9 +6,5 @@ theme = 'hugo-theme-console'
 [params]
 
 [[params.navlinks]]
-name = "linkedin/"
-url = "https://www.linkedin.com/in/timo-brady"
-
-[[params.navlinks]]
-name = "github/"
-url = "https://github.com/bluebindu"
+name = "logbook/"
+url = "/logbook"
