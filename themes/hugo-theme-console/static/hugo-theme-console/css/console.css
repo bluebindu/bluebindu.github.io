@@ -182,6 +182,9 @@ figure {
     -webkit-animation: cursor 1s infinite;
     animation: cursor 1s infinite;
     width: 10px;
+    content: "𑇄";
+    background: none;
+    color: #04045b;
 }
 
 .terminal-prompt::before {
