@@ -189,7 +189,7 @@ figure {
 
 .terminal-prompt::before {
     content: none;
-}
+} 
 
 .gallery-image {
     margin-top: 10px;
