@@ -1,6 +1,6 @@
 +++
 title = "Commentary on Bacchylides Ode 3.15-47: For Hieron of Syracuse (468 BCE)"
-date = "2022-08-02"
+date = "2021-08-02"
 +++
 
 > Gold? yellow, glittering, precious gold?  
