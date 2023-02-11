@@ -1,5 +1,5 @@
 +++
-title = "a stronger container"
+title = "on the commercialization of spirituality"
 date = "2021-03-23"
 +++
 
