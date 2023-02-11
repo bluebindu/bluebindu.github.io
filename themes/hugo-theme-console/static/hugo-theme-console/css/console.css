@@ -198,7 +198,7 @@ figure {
 
 .posts-list {
     position: relative;
-    padding-left: 130px;
+    padding-left: 150px;
     top: 0;
 }
 
@@ -265,13 +265,12 @@ figure {
 
     .posts-list .date {
         display: inline-block;
-        position: absolute;
+        position: relative;
         left: 0px;
         width: 150px;
         z-index: 400;
-        font-weight: bold;
-        padding-top: 0;
-        display: none;
+        font-weight: none;
+        padding-top: 0px;
     }
 
 
