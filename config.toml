@@ -7,3 +7,7 @@ theme = 'hugo-theme-console'
 [[params.navlinks]]
 name = "logbook/"
 url = "/logbook"
+
+[[params.navlinks]]
+name = "music/"
+url = "/music"
