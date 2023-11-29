@@ -52,8 +52,7 @@ Apperly, Ian A. and Stephen A. Butterfill (2009). “Do Humans Have Two
 Systems to Track Beliefs and Belief-Like States?” In: Psychological Review
 116.4, pp. 953–970.  
 
-Carruthers, Peter (2016). “Two Systems for Mindreading?” In: Review of Phi-
-losophy and Psychology 7.1, pp. 141–162.  
+Carruthers, Peter (2016). “Two Systems for Mindreading?” In: Review of Philosophy and Psychology 7.1, pp. 141–162.  
 
 Gerrans, Philip and Valerie E. Stone (June 2008). “Generous or Parsimonious
 Cognitive Architecture? Cognitive Neuroscience and Theory of Mind”. In:
@@ -63,14 +62,14 @@ Keyes, Daniel (1966). Flowers for Algernon. First. New York: Harcourt, Brace
 & World.  
 
 Mahy, Caitlin E.V., Louis J. Moses, and Jennifer H. Pfeifer (2014). “How and
-where: Theory-of-mind in the brain”. In: Developmental Cognitive Neuro-
-science 9, pp. 68–81.  
+where: Theory-of-mind in the brain”. In: Developmental Cognitive Neuroscience 9, pp. 68–81.  
 
 Manning, Christopher D. et al. (Dec. 2020). “Emergent linguistic structure in
 artificial neural networks trained by self-supervision”. In: Proceedings of the
 National Academy of Sciences 117.48.  
 
-Milway, Daniel (Apr. 2023). A Response to Piantadosi (2023). [pdf]. lingbuzz/007264.
+Milway, Daniel (Apr. 2023). A Response to Piantadosi (2023). [pdf]. lingbuzz/007264.  
+
 Piantadosi, Steven (Nov. 2023). Modern Language Models Refute Chomsky’s
 Approach to Language. [pdf]. lingbuzz/007180.  
 
@@ -81,15 +80,15 @@ Pulverm ̈uller, Friedemann (2023). “Neurobiological mechanisms for language,
 symbols and concepts: Clues from brain-constrained deep neural networks”.
 In: Progress in Neurobiology 230.  
 
-Simmons, Dan (1990). Hyperion. New York, NY: Bantam Doubleday Dell Pub-
-lishing Group.  
+Simmons, Dan (1990). Hyperion. New York, NY: Bantam Doubleday Dell Publishing Group.  
 
 Slaughter, Virginia (2015). “Theory of Mind in Infants and Young Children: A
 Review”. In: Australian Psychologist 50.3, pp. 169–172.  
 
-Wallis, Christopher (2012). Tantra Illuminated. Boulder, CO: Mattamay ̄ura
+Wallis, Christopher (2012). Tantra Illuminated. Boulder, CO: Mattamayūra
 Press.  
 
-— (2017). The Recognition Sutras. Boulder, CO: Mattamay ̄ura Press.
+— (2017). The Recognition Sutras. Boulder, CO: Mattamayūra Press.  
+
 Wang, Tony T et al. (2023). “Adversarial Policies Beat Superhuman Go AIs”.
 In: International Conference on Machine Learning.
