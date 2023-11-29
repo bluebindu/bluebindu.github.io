@@ -3,21 +3,24 @@ title = "AI ist Tot: Theory of Mind, LLMs, and Insights from Non-Dual Śaiva Tan
 date = "2023-11-27"
 +++
 
+# *Excerpts*
+
 >The function of the ordinary, feeble means of knowledge is to
 >make apparent some previously unknown fact. Therefore, these are
->neither useful nor capable of establishing Awareness, which is inde-
->pendent, undivided, and continuously revealing itself.
->As it is said in the Trikas ̄ara (‘The Essence of the Trinity’):
+>neither useful nor capable of establishing Awareness, which is independent, undivided, and continuously revealing itself.
+
+>As it is said in the *Trikasāra* (‘The Essence of the Trinity’):
 >‘If a person desires to step on the shadow of his head
 >with his own foot, he will find his head will never be in the
 >same place of his foot. The power of the Point is similar.’
+
 >—*Pratyabhijñāhṛdayam* (Tr. Wallis 2017)
 
-## Preface: My Era of Eat, Pray, Love
+# Preface: My Era of Eat, Pray, Love
 
 In writing this paper, I was reminded of the kinds of philosophical discussions
 I had with a teacher at the foothills of the Himalayas in northern India. Every
-day was the same. Before sunrise we participated in p ̄uj ̄a (ritual offerings),
+day was the same. Before sunrise we participated in *pūjā* (ritual offerings),
 wrapped in woolen blankets. As the doors of the horizon opened, we meditated
 on the banks of a rivulet fed by the waters of the mightier Ganga in the company
 of cows that carefully trod around us like the river that flows around a rock.
