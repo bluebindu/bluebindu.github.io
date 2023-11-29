@@ -28,12 +28,10 @@ There was a deep level of trust one had to cultivate by the water in those days,
 trusting that a cow would not lovingly crush you while your eyes were closed.
 After the daily yogic practice, I returned to the river to sit and contemplate.
 Later in the day, I described the contemplation and posed questions to him.
-One day he said, “Contemplation is not thinking, and there is no contem-
-plation without meditation. Elevated human experiences are usually without
+One day he said, “Contemplation is not thinking, and there is no contemplation without meditation. Elevated human experiences are usually without
 thought.” I know this from my own experience. In those contemplations by
 the river, I invited a subtle intention—“I am willing to experience whatever
-needs to be experienced in this moment”—and then let it go, permitting what-
-ever subtle energy was percolating beneath the *citta-vṛtti*, the mental-emotional
+needs to be experienced in this moment”—and then let it go, permitting whatever subtle energy was percolating beneath the *citta-vṛtti*, the mental-emotional
 fluctuations, to arise from a point of stillness.
 
 What arose for me in that first month was essence nature. I became absorbed in observing the process of my body emit warm breath, the breath condense with the cold air, and the constituent parts of the breath dissolve back into the surrounding space. What remained of the breath? What remained of its essence that was now indistinguishable from the space and the air around me and now utterly without form, in such contrast to my own form of the body, of the rock upon which I sit? My form—the moment I am formless—the moment I am dissolved, devoured, and reabsorbed. What remains?
