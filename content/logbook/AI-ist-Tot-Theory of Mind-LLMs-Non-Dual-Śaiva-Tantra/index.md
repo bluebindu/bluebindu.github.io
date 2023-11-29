@@ -3,7 +3,7 @@ title = "AI ist Tot: Theory of Mind, LLMs, and Insights from Non-Dual Śaiva Tan
 date = "2023-11-27"
 +++
 
-# *Excerpts*
+## *Excerpts*
 
 >The function of the ordinary, feeble means of knowledge is to
 >make apparent some previously unknown fact. Therefore, these are
@@ -16,7 +16,7 @@ date = "2023-11-27"
 
 >—*Pratyabhijñāhṛdayam* (Tr. Wallis 2017)
 
-# Preface: My Era of Eat, Pray, Love
+## Preface: My Era of Eat, Pray, Love
 
 In writing this paper, I was reminded of the kinds of philosophical discussions
 I had with a teacher at the foothills of the Himalayas in northern India. Every
