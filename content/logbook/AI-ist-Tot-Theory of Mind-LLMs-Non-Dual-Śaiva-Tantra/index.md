@@ -33,5 +33,5 @@ plation without meditation. Elevated human experiences are usually without
 thought.” I know this from my own experience. In those contemplations by
 the river, I invited a subtle intention—“I am willing to experience whatever
 needs to be experienced in this moment”—and then let it go, permitting what-
-ever subtle energy was percolating beneath the citta-vr. tti, the mental-emotional
+ever subtle energy was percolating beneath the *citta-vṛtti*, the mental-emotional
 fluctuations, to arise from a point of stillness.
