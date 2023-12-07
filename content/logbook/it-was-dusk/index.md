@@ -10,3 +10,6 @@ there to film in a city being pulled asunder by vestiges of the former regime an
 sectarian melee among Kurds, Assyrians, Turkmens, and Arabs. My fixer seized my hand,
 the two of us yoked amidst the bedlam. Dog-tired American soldiers on patrol had compelled
 us to swiftly run across the bridge towards the gate of the citadel where we would be safer. And so we ran.
+
+In Iraq, one acutely hones the faculty of abiding in entropy, of perambulating the
+borderlands of chaos and order.
