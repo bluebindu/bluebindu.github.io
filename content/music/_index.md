@@ -6,15 +6,15 @@ title = "music"
 &nbsp;  
 **— Sofia Gubaidulina, Composer**
 
-## The Lulled / One Hand Loves the Other
+## The Lulled
 
 various live and studio recordings from an experimental baroque pop collective for which I wrote and performed
 
 > {{< soundcloud 1570330777 >}}  
 
-## Edalat Square: Opera in One Act
+## Opera in One Act
 
-excerpts of live recordings of the award-winning experimental chamber opera from various performances across Atlanta and Houston, USA
+excerpts of live recordings of an award-winning experimental chamber opera from various performances across the USA
 
 > {{< soundcloud 1570301464 >}}
 
