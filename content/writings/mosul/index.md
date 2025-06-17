@@ -7,7 +7,7 @@ The first time I heard him drop the f-bomb was when I phoned two weeks ago to fi
 
 * * *
 
-He doesn’t remember anything about his father; he was killed in action when he was only three years old. He recalls what was passed down to him from his mother. Zuhair and his wife Naseera would bear only one child. Having been around for just the first year of Ehab’s life, Zuhair was stationed in the Kurdish city of Sulemaniyah near the Iranian border. On the morning of June 19, 1986, he and an army buddy set out for a trip to the local market. They were caught off guard. It was an ambush. Zuhair was killed instantly by a shot to the heart, his face smashed in—*post mortem*—by a pair of Iranian iron gauntlets as a deliberately gruesome exclamation point. He was 29 years old.
+He doesn’t remember anything about his father; he was killed in action when he was only three years old. He recalls what was passed down to him from his mother. Zuhair and his wife Naseera would bear only one child. Having been around for just the first year of his life, Zuhair was stationed in the Kurdish city of Sulemaniyah near the Iranian border. On the morning of June 19, 1986, he and an army buddy set out for a trip to the local market. They were caught off guard. It was an ambush. Zuhair was killed instantly by a shot to the heart, his face smashed in—*post mortem*—by a pair of Iranian iron gauntlets as a deliberately gruesome exclamation point. He was 29 years old.
 
 * * *
 
