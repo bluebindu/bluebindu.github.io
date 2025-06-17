@@ -1,1 +1,6 @@
-+++ image = "bluebinduimage.png" date = "2022-12-25" title = "blue bindu" type = "gallery" +++
++++
+title = "blue bindu"
+date = "2022-12-25"
+image = "bluebinduimage.png"
+type = "gallery"
++++
