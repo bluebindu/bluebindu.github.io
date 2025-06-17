@@ -1,5 +1,5 @@
 +++
-title = "Anti-Theodic Allegory of Manifest Destiny in the Film *Noah* and the Novel *Blood Meridian or the Evening Redness in the West*"
+title = "Anti-Theodic Allegory of Manifest Destiny in the Film Noah and the Novel Blood Meridian or the Evening Redness in the West"
 date = "2015-11-25"
 +++
 
