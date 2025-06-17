@@ -2,7 +2,7 @@
 title = "yoga"
 +++
 
-*If you are interested in working with me, please email me at <span class="ltrText">/gro.udnibeulb@omit</span>.*
+*If you are interested in working with me, please email me (address in footer).*
 
 ## Why Classical Kuṇḍalinī-Tantra?
 

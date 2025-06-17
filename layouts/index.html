@@ -29,6 +29,20 @@ yes, many and beautiful things<br/>
 </p>
 <br/> -->
 
+<div class="image-grid">
+{{ with .Site.GetPage "/photos" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
 <h2>latest entries/</h2>
 
 <div class="posts-list">
@@ -46,19 +60,5 @@ yes, many and beautiful things<br/>
 </div>
 
 <!-- <h1>Latest photos</h1> -->
-
-<div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
-    {{ end }}
-{{ end }}
-</div>
 
 {{ end }}
