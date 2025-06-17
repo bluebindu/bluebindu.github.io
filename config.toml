@@ -5,8 +5,8 @@ theme = 'hugo-theme-console'
 [params]
 
 [[params.navlinks]]
-name = "logbook/"
-url = "/logbook"
+name = "writings/"
+url = "/writings"
 
 [[params.navlinks]]
 name = "yoga/"
