@@ -2,6 +2,14 @@
 title = "yoga"
 +++
 
+*If you are interested in working with me, please email me at <span class="ltrText">/gro.udnibeulb@omit</span>.*
+
+## Why Classical Kuṇḍalinī-Tantra?
+
+{{< youtube w5_NjN2I-Zw >}}
+
+* * *
+
 ## reaching a unity point
 
 Helming a sailing vessel is very much a meditative practice. In sailing we tune our physical and mental awareness to the flow of the sea, to the whimsy of the wind, to the sensations within the body arising from contact with the sailing vessel herself. We reach a unity point&mdash;sea, wind, mind, body, vessel&mdash;and then the state of flow arises.    
@@ -22,12 +30,14 @@ In later years, I began to experience the potential of a more holistic and less 
 
 * * *
 
-## Why Classical Kuṇḍalinī-Tantra?
-
-{{< youtube w5_NjN2I-Zw >}}
-
-* * *
-
 ## The Power of the Tantra: Waking Up to Reality
 
 {{< youtube 0y-rrtIdeV8 >}}
+
+* * *
+
+## cosmic bodies
+
+E = mc². You may remember this from grade school that matter and energy are equivalent and that the amount of pure energy contained within even the smallest of objects is staggering. Now, imagine the amount of pure energy contained within the body-mind apparatus! It is this energetic principle that we leverage to expand and evolve&mdash;not that we need to be “better,” for we are fine just as we are. We need only to abide in our essence nature to experience that truth. But this can be an understandably Herculean effort within the context of deeply-rooted social-conditioning and a complex nervous system which triggers the body-mind into fight or flight mode on a nearly constant basis (i.e. anxiety, stress, false sense of separation and isolation, etc.).
+
+With spiritual technology, we may come to expand our awareness of the nature of reality and evolve our state of consciousness, really the entire body-mind apparatus, to one that is more cosmic in orientation and thus far less contracted.
