@@ -32,7 +32,7 @@ yes, many and beautiful things<br/>
 <h2>latest entries/</h2>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/logbook" }}
+{{ with .Site.GetPage "/writings" }}
     {{ range first 50 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
