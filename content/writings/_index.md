@@ -1,3 +1,3 @@
 +++
-title = "logbook"
+title = "writings"
 +++
