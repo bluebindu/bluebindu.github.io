@@ -1,0 +1,1 @@
++++ title = "photos" type = "gallery" +++
