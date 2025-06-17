@@ -2,7 +2,11 @@
 title = "yoga"
 +++
 
+* * *
+
 बिंदु / bindu ~ a point of singularity in the non-dual yogic tradition
+
+* * *
 
 ## Why Classical Kuṇḍalinī-Tantra?
 
