@@ -1,5 +1,5 @@
 +++
-title = "AI ist Tot: Theory of Mind, LLMs, and Insights from Non-Dual Śaiva Tantra"
+title = "The Anabaseis of Penelope and Ninsun"
 date = "2018-03-21"
 +++
 
@@ -13,4 +13,4 @@ Burkert assumes Homer’s deliberate borrowing and adaptation of the Babylonian 
 
 * * *
 
-Burkert, W. 1992. The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age. Translated by Margaret E. Pinder and Walter Burkert. Cambridge: Harvard University Press.
+Burkert, W. 1992. *The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age*. Translated by Margaret E. Pinder and Walter Burkert. Cambridge: Harvard University Press.
