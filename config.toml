@@ -9,10 +9,6 @@ name = "writings/"
 url = "/writings"
 
 [[params.navlinks]]
-name = "yoga/"
-url = "/yoga"
-
-[[params.navlinks]]
 name = "music/"
 url = "/music"
 

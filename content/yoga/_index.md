@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "yoga"
 +++
 
@@ -48,4 +48,4 @@ With spiritual technology, we may come to expand our awareness of the nature of 
 
 * * *
 
-*If you are interested in working with me, please email me (address in footer).*
+*If you are interested in working with me, please email me (address in footer).* -->
