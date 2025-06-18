@@ -1,5 +1,5 @@
 +++
 image = "teaching.jpg"
-date = "2022-12-22"
+date = "2022-12-19"
 type = "gallery"
 +++
