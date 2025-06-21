@@ -41,7 +41,7 @@ The roots of current advances in computational applications based on entomologic
 Lateral inhibition, as replicated in the original ESTMD model, is typically achieved by inhibiting background motion to enhance small target motion more effectively; however, too much lateral inhibition, particularly in the periphery, can lead to unstable detection performance, as observed in the original model. Building upon the work of Wiederman (2008), Wang (2016) proposes a modified ESTMD model that incorporates a more biologically-plausible lateral inhibition mechanism with motion velocity and direction to improve discriminating the motion of the target from the motion of the background, a feature which has a physiological basis in the dragonfly's higher order neurons. A more detailed discussion around lateral inhibition in retinal neurons is given in Srinivasan (1982).
 
 <figure>
-  <img src="/writings/drones/dragonflyscheme.png" alt="..." width="250">
+  <img src="/writings/drones/dragonflyscheme.png" alt="Schematic of the dragonfly-inspired computer vision model" style="width: 500px !important; max-width: 500px !important; height: auto;">
   <figcaption>Figure 1. Schematic of the dragonfly-inspired computer vision model (Wang, 2016).</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Broadly speaking, BIV algorithms based on primate physiology fall into the follo
 Itti, Koch, and Niebur (1998) explore the early visual system of primates which excels at interpreting complex scenes and focusing attention in real time through the bottom-up use of saliency maps. The authors implement a dynamic neural network architecture that mimics this visual system, in particular a saliency-driven focal visual attention for target detection which utilizes center-surround mechanisms to extract conspicuous features across different scales without requiring top-down guidance; a biologically-plausible winner-take-all mechanism which allows the model to sequentially attend to different locations based on their saliency; and adaptation to scene context in which the model changes its focus in response to the evolving content of the scene. The results of this cognitive model indicate that its attentional trajectories perform similarly to human eye fixations and is therefore a computationally efficient means for real-time target detection.
 
 <figure>
-  <img src="itti1998model.png" alt="Dynamic neural network architecture inspired by primate visual system" width="2.5in">
+  <img src="itti1998model.png" alt="Dynamic neural network architecture inspired by primate visual system" style="width: 500px !important; max-width: 500px !important; height: auto;">
   <figcaption>Figure 2. The dynamic neural network architecture inspired by the early primate visual system (Itti, Koch, & Niebur, 1998).</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ McIntosh and Maheswaranathan (2015) employ CNNs to predict spiking activity in r
 Yang (2023) presents a motion-guided visual detection system inspired by the human visual system and its attention response triggered by motion called the "motion-guided video tiny object detection method" (MG-VTOD). Employing a YOLOv5 framework as its foundation, MG-VTOD captures motion cues from moving targets such as drones. A unique motion strength algorithm generates a grayscale map that highlights moving objects against backgrounds when overlaid on video frames. During trials conducted in environments with occlusions such as clouds, buildings, forests, and mountains, the MG-VTOD model has shown better performance compared to other methods such as the vanilla small variant YOLOv5-s (v8 is detailed in the YOLOv8 section) and FCOS (discussed in the FCOS section).
 
 <figure>
-  <img src="MG-VTOD.png" alt="Structural illustration of the MG-VTOD model" width="2.5in">
+  <img src="MG-VTOD.png" alt="Structural illustration of the MG-VTOD model" style="width: 650px !important; max-width: 650px !important; height: auto;">
   <figcaption>Figure 3. Structural illustration of the MG-VTOD model (Yang, 2023).</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ In contrast, one-stage object detectors such as YOLO ("You Only Look Once") and 
 Advanced signal pre-processing and feature extraction techniques, such as noise reduction, contrast adjustment, attention mechanisms, and normalization, improve a CNN's ability to learn from more refined sensor data as measured by greater detection accuracy and reduced false positives. Ding (2023) proposes an acoustic denoising pre-processing module as part of a hybrid Convolutional-LSTM (long short-term memory) neural network typically reserved for such tasks as sound separation and speech enhancement. Their model, called DroneFinderNet, improves detection sensitivity by separating drone sounds from background noise.
 
 <figure>
-  <img src="dronefindernet.png" alt="DroneFinderNet network architecture" width="2.5in">
+  <img src="dronefindernet.png" alt="DroneFinderNet network architecture" style="width: 650px !important; max-width: 650px !important; height: auto;">
   <figcaption>Figure 4. The proposed drone-sound-localization module within the DroneFinderNet network, including a) the pipeline of acoustic denoising and source-localization process and b) dataset collection and training of the denoising network (Ding, 2023).</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ To mitigate challenging situations such as environments with high visual noise l
 The novel Fully Convolutional One-Stage Object Detector (FCOS) is given by Tian et al. (2022). It is a fully convolutional neural network; one stage; and anchor free, i.e., without the need for pre-defined anchor boxes as reference points to predict the presence of objects which is far more computationally intensive. FCOS predicts the presence and boundaries of objects at the level of the pixel, without relying on predefined anchor box shapes and sizes. This adjustment simplifies the model by removing the need for calculating Intersection over Union (IoU) scores and additional hyperparameters for each anchor box. FCOS achieves similar recall rates to anchor-based methods, such as YOLO, but with improved performance and faster inference speeds. In their research, Nayak (2022) suggests a data augmentation technique to optimize FCOS for drone detection.
 
 <figure>
-  <img src="FCOS.png" alt="Network architecture of FCOS" width="2.5in">
+  <img src="FCOS.png" alt="Network architecture of FCOS" style="width: 650px !important; max-width: 650px !important; height: auto;">
   <figcaption>Figure 5. The network architecture of FCOS (Tian et al., 2022).</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ The novel Fully Convolutional One-Stage Object Detector (FCOS) is given by Tian 
 YOLOv8 (Ultralytics, 2023) is a computer vision object detection model first developed by Redmon (2016). The model detects objects in images or videos and pinpoints their locations using bounding boxes. YOLOv8 operates on a CNN framework that processes the image or video frame in such a way that it predicts object classes and locations in a single pass, hence the name "You Only Look Once". This method of processing data in a single pass is much quicker than classical convolutional techniques that analyze parts of images separately using sliding windows.
 
 <figure>
-  <img src="YOLO.png" alt="YOLOv7 and YOLOv8 architecture" width="2.5in">
+  <img src="YOLO.png" alt="YOLOv7 and YOLOv8 architecture" style="width: 650px !important; max-width: 650px !important; height: auto;">
   <figcaption>Figure 6. Computer vision architecture and backbone of the YOLOv7 and YOLOv8 variants (Bennour, 2023).</figcaption>
 </figure>
 

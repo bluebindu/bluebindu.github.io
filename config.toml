@@ -6,7 +6,10 @@ theme = 'hugo-theme-console'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
+[params]
+  custom_css = ["css/custom.css"]
+  
 [[params.navlinks]]
 name = "writings/"
 url = "/writings"
