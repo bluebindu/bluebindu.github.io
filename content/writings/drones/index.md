@@ -20,7 +20,7 @@ date = "2024-02-29"
 
 ## Introduction
 
-Drones hum and hover above every continent on Earth, omnipresent and inconspicuous. A wide and diverse swath of society&mdash;militaries and militias, farmers, black market peddlers and private enterprises, beach lifeguards, and consumers of all ages&mdash;avails itself of the airborne drone within the largely unregulated "Wild West" of the lower skies. The implications are manifold and well documented (DeDrone, 2023).
+Drones hum and hover above every continent on Earth, omnipresent and inconspicuous. A wide and diverse swath of society&mdash;militaries and militias, farmers, black market peddlers and private enterprises, beach lifeguards, and consumers of all ages&mdash;avails itself of the airborne drone within the largely unregulated "Wild West" of the lower skies. The implications are manifold and well documented.
 
 Computer vision models augment considerably the sensor-specific capabilities for drone detection such as acoustic, electro-optical, and radio frequency (RF) sensors. Some of the current pain points of innovation in the domain of real-time drone detection, and those which computer vision models can especially mitigate, consist of the following: detecting small drones from a great distance and against complex backgrounds, such as dense urban areas; detecting drones that exploit the vulnerabilities in current detection systems by stealthily hiding amongst large obstacles such as trees, mountains, and high-rise buildings; and improving the speed and accuracy of detecting drones in real-time video feeds, such as those from visible and infrared spectrum cameras.
 
