@@ -2,8 +2,11 @@ languageCode = 'en-us'
 title = 'Timo'
 theme = 'hugo-theme-console'
 
-[params]
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [[params.navlinks]]
 name = "writings/"
 url = "/writings"
