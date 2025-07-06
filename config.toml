@@ -17,7 +17,3 @@ url = "/writings"
 [[params.navlinks]]
 name = "music/"
 url = "/music"
-
-[[params.navlinks]]
-name = "₿/"
-url = "/bitcoin.pdf"
